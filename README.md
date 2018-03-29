@@ -3,7 +3,7 @@ Reseached on CSI500 ETF underlying stocks trend on their first resumption date a
 
 In the project we need a oracle account and username/password to access SQL, which actually is the personal RDF in WIND when I worked in China Southern Asset Management, a leading mutual funds in China. 
 
-For convenience, you may read the report（个股复牌算法总结.pdf） wrritten in Chinese format to get the whole idea and conclusion of my research result.
+For convenience, you may read the report (个股复牌算法总结.pdf, wrritten in Chinese format) to get the whole idea and conclusion of my research result.
 
 This project contains 4 kinds of files
 
